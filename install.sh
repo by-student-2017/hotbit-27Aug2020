@@ -54,4 +54,7 @@ echo 'export PATH=$HOME/hotbit:$PATH' >> ~/.bashrc
 echo 'export HOTBIT_PARAMETERS=$HOME/hotbit/param' >> ~/.bashrc
 echo 'export PYTHONPATH=$PYTHONPATH:$HOTBIT_DIR' >> ~/.bashrc
 
+cd ~/hotbit
+bash
+
 echo "Installation, END"
