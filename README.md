@@ -1,11 +1,11 @@
-# hotbit_27Aug2020
+# hotbit-27Aug2020
 
 
 -----
 # Installation (Debian 10.0)
 
 
-1. mv hotbit_27Aug2020 hotbit
+1. mv hotbit-27Aug2020 hotbit
 
 
 2. cd hotbit
